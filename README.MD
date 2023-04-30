@@ -1,6 +1,8 @@
-=======   Earth 2150 Levels (Maps)   ======= 
+# Earth 2150 Levels (Maps)
 
-------- Installation
+## [Levels Gallery](https://insideearth2150.github.io/Levels-Gallery/)
+
+## Installation
 
 To install these communit created maps, simply place the files in the "Levels" folder that is in the root of the game instalation;
 
