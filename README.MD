@@ -2,7 +2,7 @@
 
 ## [Levels Gallery](https://insideearth2150.github.io/Levels-Gallery/)
 
-## Installation
+##3 Installation
 
 To install these communit created maps, simply place the files in the "Levels" folder that is in the root of the game instalation;
 
